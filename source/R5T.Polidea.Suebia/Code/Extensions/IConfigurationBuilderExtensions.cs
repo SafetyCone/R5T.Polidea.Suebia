@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using R5T.Suebia.Extensions;
 
 
-namespace R5T.Polidea.Suebia.Code.Extensions
+namespace R5T.Polidea.Suebia
 {
     public static class IConfigurationBuilderExtensions
     {
